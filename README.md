@@ -17,6 +17,11 @@ Built with clean, lightweight code to ensure fast performance and easy customiza
 
 Clone the repository and open `index.html` in your browser to start playing.
 
+## Download
+
+You can download the latest release here:  
+[Clicker v1.0.0](https://github.com/catosoriginal/clicker-html/releases/tag/v1.0.0)
+
 ---
 
 Contributions and feedback are welcome!
