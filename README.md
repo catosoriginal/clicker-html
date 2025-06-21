@@ -1,6 +1,6 @@
 # Clicker
 
-![Screenshot](https://github.com/user-attachments/assets/51e7e4de-d940-4bb8-b5b7-ee28fbe2a326)
+<img src="https://github.com/user-attachments/assets/51e7e4de-d940-4bb8-b5b7-ee28fbe2a326" width="250">
 
 ## Overview
 
@@ -25,3 +25,7 @@ You can download the latest release here:
 ---
 
 Contributions and feedback are welcome!
+
+---
+
+<p>&copy; 2025 <a href="https://github.com/catosoriginal" target="_blank">catosoriginal</a>. All rights reserved.</p>
